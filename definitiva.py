@@ -1,0 +1,10 @@
+print("ingrese nota1 del estudiante: ")
+nota1=float(input())
+print("ingrese nota2 del estudiante:")
+nota2=float(input())
+print("ingrese nota3 del estudiante:")
+nota3=float(input())
+print("ingrese nota4 del estudiante:")
+nota4=float(input())
+defi = nota1+nota2+nota3+nota4/4
+print("la definitiva es:",defi)
